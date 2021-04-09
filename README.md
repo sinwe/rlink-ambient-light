@@ -66,6 +66,7 @@ c) Rear - This switch will turn on/off location 6, 7
 | Strip 3rd row sidewall            | ![3rd row](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/3rd%20Row.png) |
 | Footwell                          | ![Footwell](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Footwell.png) |
 | Strip surrounding overhead light. | ![Overhead](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Ambient%20Light%20Overhead.JPG) |
+| Around speedometer                | ![Speedometer](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Ambient%20Light%20Speedometer.jpg) |
 | Under front seat                  |                                                              |
 
 ## Installation
