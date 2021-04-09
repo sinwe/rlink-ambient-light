@@ -67,7 +67,7 @@ c) Rear - This switch will turn on/off location 6, 7
 | Footwell                          | ![Footwell](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Footwell.png) |
 | Strip surrounding overhead light. | ![Overhead](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Ambient%20Light%20Overhead.JPG) |
 | Around speedometer                | ![Speedometer](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Ambient%20Light%20Speedometer.jpg) |
-| Under front seat                  |                                                              |
+| Under front seat                  | ![Under front seat](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Ambient%20Light%20Below%20Front%20Seat.png) |
 
 ## Installation
 
