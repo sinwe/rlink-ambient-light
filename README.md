@@ -81,4 +81,4 @@ c) Rear - This switch will turn on/off location 6, 7
 2. Activate the relevant location (Dashboard, Front or Rear)
 3. Acquire materials (LED emitter, fibre optic)
 
-Make appointment with Daren from AutoTrend workshop in Toa Payoh for "Morning slot" and ask for his worker named "**Ah Keong**" to do Renault LED ambient light. For Bose/Privilege, usually Ah Keong can install 2 new locations for 2-2.5 hours. However for non-Bose and non-Privilege, it might take 3-3.5 hours for 2 new location.
+In Singapore, installation can be done at AutoTrend workshop in Toa Payoh. Make appointment with Daren from AutoTrend workshop in Toa Payoh for "Morning slot" and ask for Renault LED ambient light installation. For Bose/Privilege, usually he can install 2 new locations for 2-2.5 hours. However for non-Bose and non-Privilege, it might take 3-3.5 hours for 2 new location.
