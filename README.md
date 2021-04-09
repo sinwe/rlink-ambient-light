@@ -65,7 +65,7 @@ c) Rear - This switch will turn on/off location 6, 7
 | Strip on the doors                | ![Front door strip](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Front%20door%20strip.png) |
 | Strip 3rd row sidewall            | ![3rd row](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/3rd%20Row.png) |
 | Footwell                          | ![Footwell](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Footwell.png) |
-| Strip surrounding overhead light. |                                                              |
+| Strip surrounding overhead light. | ![Overhead](https://github.com/sinwe/rlink-ambient-light/raw/master/Article%20Images/Ambient%20Light%20Overhead.JPG) |
 | Under front seat                  |                                                              |
 
 ## Installation
